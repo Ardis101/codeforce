@@ -18,6 +18,8 @@ public class DominoPiling {
         }else {
         	System.out.println(n/DOMINO + first);
         }
+        
+        sc.close();
 
 	}
 
